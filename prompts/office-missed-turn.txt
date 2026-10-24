@@ -1,0 +1,22 @@
+Create a 4-second continuous photorealistic dramatic shot in the established architecture-office meeting room.
+
+REFERENCE ROLES
+@video1 is the approved SHOT05 v4 Blender previs. Follow its camera path, framing, close profile distance, continuous slow rightward arc, character positions and optical focus transfer closely. Use its head lift, forward lean and conversational gesture beats as broad blocking and timing guidance. Interpret them as fluid human performance rather than copying proxy joint trajectories literally.
+@image1 is the empty meeting-room image. Use it for room materials, soft daylight, glass partition, pinboard, furnishings and props. Follow @video1 for occupied seats, camera, framing and relative positions; do not inherit an empty meeting or a different seat count from the room image.
+@image2 and @image3 depict ONE protagonist: the foreground GREEN proxy, RIG_M02_Colleague. Preserve her established face, loose longer dark-brown hair and light slate-blue casual suit over an off-white crewneck.
+@image4 depicts the neighboring BLUE proxy, RIG_M03_Client, seated just beyond E at the SAME meeting table: black hair and a navy knit top. She is not an office worker beyond the glass. Proxy colors are role labels, not final clothing colors. Portrait backgrounds and standing poses are not staging instructions.
+
+@image5 depicts the third referenced character, the light-blue-shirt man M01_Presenter at the far end of the meeting table. Keep his existing seat and appearance consistent wherever he falls within the reference framing. He is a secondary listener, not the woman taking the floor and not the worker beyond the glass. His inclusion is an identity reference, not an instruction to widen or redirect the camera to show him.
+
+CAMERA
+Start close beside E's profile, her chin slightly lowered. Move slowly around to the right from the very first frame, continuously, following the reference's approximately 24-degree arc and reveal of her neighbor. Follow the reference's focus transition from E to the neighbor, arriving at approximately 1.65 seconds. Preserve the shot and seats throughout. Allow the foreground protagonist to become softly defocused as in the reference.
+
+PERFORMANCE
+0–0.65 seconds: E waits for a chance to contribute, subtly anxious but composed. A faint tension in her lips and eyes.
+0.65–1.65 seconds: E takes a small preparatory breath and gently lifts her chin. Near the end of this lift, her lips just begin to part to offer her first word.
+At approximately 1.65 seconds, in the same beat that E is about to speak, the neighboring woman opens her mouth and starts speaking first. The focus arrives on the neighbor at this moment. E never completes a spoken contribution.
+1.65–4 seconds: The neighbor continues a normal, unforced explanation, leaning forward slightly with small, relaxed conversational hand gestures consistent with the broad previs beats. She is unaware that she has taken E's opportunity. E quietly closes her lips and holds back her thought; a tiny pause and restrained disappointment remain in her eyes. Her reaction stays understated within the existing framing and soft focus.
+
+Keep natural breathing, blinking, facial motion and smoothly coordinated anatomy throughout. Preserve the two distinct women, the far seated man and the established setting. Maintain realistic skin, hair and fabric texture under the same soft daylight. Other visible attendees and office workers stay secondary and naturally occupied. The dramatic meaning is the small missed opening to speak, with neither hostility nor a large emotional reaction. Spoken wording is unspecified; no scripted dialogue or subtitles are provided by this brief.
+
+Silent visual performance; generate_audio is false. No visible text overlays.

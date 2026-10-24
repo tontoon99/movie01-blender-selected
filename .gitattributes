@@ -1,0 +1,2 @@
+*.blend -text -diff -merge -filter
+*.zip -text -diff -merge -filter
