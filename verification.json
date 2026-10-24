@@ -1,0 +1,20 @@
+{
+  "scope": "Movie01 selected Blender only",
+  "selected_blender_files": 5,
+  "source_blends_unchanged": true,
+  "blender_reopen_verified": 5,
+  "blender_runtime": "5.2.1 LTS",
+  "missing_dependencies": 0,
+  "unselected_draft_media_included": false,
+  "all_history_included": false,
+  "tested_on_another_physical_pc": false,
+  "verification_stage": "local_prepublication",
+  "selected_package_complete": true,
+  "related_generation_prompts": 4,
+  "other_movies_included": false,
+  "old_repository_history_included": false,
+  "related_materials_in_google_drive": {
+    "images": 47,
+    "selected_output_videos": 8
+  }
+}
